@@ -8,3 +8,4 @@ applications:
   path: web
   services:
     - xsuaa
+    - autoscaler
