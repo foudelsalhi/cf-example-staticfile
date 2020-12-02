@@ -6,3 +6,5 @@ applications:
   memory: 64M
   disk_quota: 256M
   path: web
+  services:
+    - xsuaa
