@@ -9,3 +9,4 @@ applications:
   services:
     - xsuaa
     - autoscaler
+    - app-log
