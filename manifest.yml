@@ -10,3 +10,4 @@ applications:
     - xsuaa
     - autoscaler
     - app-log
+    - job-scheduler
