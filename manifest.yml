@@ -7,7 +7,7 @@ applications:
   disk_quota: 256M
   path: web
   services:
+    - job-scheduler
     - xsuaa
     - autoscaler
     - app-log
-    - job-scheduler
