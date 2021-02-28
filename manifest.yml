@@ -9,4 +9,3 @@ applications:
   services:
     - job-scheduler
     - xsuaa
-    - autoscaler
